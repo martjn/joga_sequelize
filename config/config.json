@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Ij6lS*H?ScwD",
+    "database": "joga_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Ij6lS*H?ScwD",
+    "database": "joga_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Ij6lS*H?ScwD",
+    "database": "joga_sequelize",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
